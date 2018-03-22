@@ -6,7 +6,7 @@ class MergeSort
     {
     	
         int arr[] = {12, 11, 13, 5, 6, 7};
- 
+ //adding comment
         System.out.println("Given Array");
         printArray(arr);
  
